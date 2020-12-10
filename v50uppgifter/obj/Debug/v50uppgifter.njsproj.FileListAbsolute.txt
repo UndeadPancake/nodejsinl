@@ -1,3 +1,6 @@
 C:\Users\Dator 1\source\repos\v50uppgifter\obj\Debug\v50uppgifter.njsprojAssemblyReference.cache
 C:\Users\Dator 1\source\repos\v50uppgifter\obj\Debug\v50uppgifter.njsproj.CoreCompileInputs.cache
 C:\Users\Dator 1\source\repos\v50uppgifter\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Dator 1\Source\Repos\nodejsinl\v50uppgifter\obj\Debug\v50uppgifter.njsprojAssemblyReference.cache
+C:\Users\Dator 1\Source\Repos\nodejsinl\v50uppgifter\obj\Debug\v50uppgifter.njsproj.CoreCompileInputs.cache
+C:\Users\Dator 1\Source\Repos\nodejsinl\v50uppgifter\bin\Microsoft.NodejsTools.WebRole.dll

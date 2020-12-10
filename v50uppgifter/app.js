@@ -4,7 +4,7 @@ var http = require('http');
 function htmlPage(req, res) {
     res.write('<html>');
         res.write('<head>');
-            res.write('<title>Repeat</title>');
+            res.write('<title>' + req.url + '</title>');
         res.write('</head>');
         res.write('<body>');
             res.write('<h1>' + req.url + '</h1>');

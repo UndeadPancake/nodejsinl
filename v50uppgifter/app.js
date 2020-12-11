@@ -39,6 +39,10 @@ function compPage(req, res, qdata) {
             result = qdata.x * qdata.y;
             res.write(qdata.x + " * " + qdata.y + " = " + result);
             break;
+        case "div":
+            result = qdata.x / qdata.y;
+            res.write(qdata.x + " / " + qdata.y + " = " + result);
+            break;
     }
     res.end();
 }
